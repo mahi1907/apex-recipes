@@ -6,6 +6,13 @@
             "package": "ApexRecipes",
             "versionName": "Spring 23 release",
             "versionNumber": "57.0.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "apexRecipesPckg-mahi",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
@@ -17,6 +24,7 @@
         "ApexRecipes@55.0.0-1": "04t3g000000LSPCAA4",
         "ApexRecipes@55.0.0-2": "04t3g000000LSRDAA4",
         "ApexRecipes@55.0.0-3": "04t3g000000LSRIAA4",
-        "ApexRecipes@56.0.0-1": "04t3g000000cCYLAA2"
+        "ApexRecipes@56.0.0-1": "04t3g000000cCYLAA2",
+        "apexRecipesPckg-mahi": "0Ho5g000000Xa8bCAC"
     }
 }
