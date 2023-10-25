@@ -9,6 +9,5 @@
     <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
     <label>Apex Recipes</label>
     <navType>Standard</navType>
-    <tabs>Apex_Recipes</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>
