@@ -560,10 +560,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <tabSettings>
-        <tab>Apex_Recipes</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-    <tabSettings>
         <tab>standard-Campaign</tab>
         <visibility>Visible</visibility>
     </tabSettings>
